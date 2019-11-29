@@ -1,0 +1,13 @@
+# mac hidden files
+.DS_Store
+
+# security / ssl
+*.pem
+*.xxjson
+
+#other
+.tmp
+builds/**/images/*
+*.ogg
+*.mp3
+*.mp4
